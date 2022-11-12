@@ -29,9 +29,7 @@ async function App(){
       setImput("")
     }
 
-
-
-  return(
+  return (
     <div className="container">
       <h1 className="title">Buscador de CEP</h1>
 
